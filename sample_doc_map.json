@@ -220,6 +220,25 @@
         "science"
       ]
     },
+    
+    
+    {
+      "title": "Mamíferos",
+      "description": "Datos de 27 mamíferos, cada uno con ocho atributos.  ¿Qué relaciones pueden encontrar?",
+      "path": "SampleDocs/Science/Biology/27mammals/mamiferos.codap",
+      "visible": true,
+      "tag": [
+        "mammals",
+        "biology",
+        "animals"
+      ],
+      "image_path": "./resources/images/Mammal.jpg",
+      "categories": [
+        "science"
+      ]
+    },
+    
+    
     {
       "title": "Parachute Model",
       "description": "Experiment dropping a parachute to see how changing the parachute's size and mass of its cargo changes the terminal velocity of the drop.",
