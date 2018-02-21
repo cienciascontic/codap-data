@@ -205,6 +205,26 @@
         "science"
       ]
     },
+    
+    
+     {
+      "title": "Cuatro elefantes marinos",
+      "description": "Muestra el seguimiento de cuatro elefantes marinos en el Pacífico en un mapa. Hacer gráficos y usar la selección para investigar qué sucede.",
+      "path": "SampleDocs/Science/Biology/four-seals/Cuatro_elefantes_marinos.codap",
+      "visible": true,
+      "tag": [
+        "seals",
+        "biology",
+        "animals"
+      ],
+      "image_path": "./resources/images/FourSeals.jpg",
+      "categories": [
+        "miscellaneous",
+        "science"
+      ]
+    },
+    
+    
     {
       "title": "Mammal",
       "description": "There are 27 mammals, each with eight attributes.  What relationships can you find?",
