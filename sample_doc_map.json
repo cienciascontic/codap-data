@@ -2,7 +2,7 @@
   "sample_docs": [
     {
       "title": "Markov",
-      "description": "Save Madeline the dog by playing Roshambo against the evil Dr. Markov. Improve you odds by analyzing Markov's moves. ",
+      "description": "Salven al perro Madeline jugando Roshambo contra el malvado Dr. Markov. Mejoren sus chances analizando los movimientos de Markov. ",
       "path": "SampleDocs/Mathematics/Probability/markov/Markov_Sample.json",
       "visible": true,
       "image_path": "./resources/images/markov_banner.png",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "title": "BART Pressure",
+      "title": "La presión de BART",
       "description": "Miguel and Bill took a PocketLab sensor onto BART to SF and back. They began recording pressure just before the train went into the tunnel under the bay.",
       "path": "SampleDocs/Science/PhysChem/BART_Pressure/BART_pressure.codap",
       "visible": true,
@@ -38,8 +38,8 @@
       ]
     },
     {
-      "title": "Birthdays",
-      "description": "How popular is your birthday? Is the distribution of birthdays uniform?",
+      "title": "Cumpleaños",
+      "description": "¿Cuán popular es tu cumpleaños? ¿Es la distribución de cumpleaños uniforme?",
       "path": "SampleDocs/Mathematics/Probability/Birthdays/Birthdays.codap",
       "visible": true,
       "tag": [
@@ -55,7 +55,7 @@
     },
     {
       "title": "Fibonacci",
-      "description": "Explore the Fibonacci numbers in CODAP.",
+      "description": "Explorar los números de Fibonacci en CODAP.",
       "path": "SampleDocs/Mathematics/Number_Theory/Fibonacci/Fibonacci.codap",
       "visible": true,
       "tag": [
@@ -69,8 +69,8 @@
       ]
     },
     {
-      "title": "Climate Change",
-      "description": "Explore models of climate change over time.",
+      "title": "Cambio climático",
+      "description": "Explorar modelos de cambio climático a lo largo del tiempo.",
       "path": "SampleDocs/Science/E_Sciences/Climate_Change/Climate-Change-A.codap",
       "visible": true,
       "tag": [
@@ -87,8 +87,8 @@
       ]
     },
     {
-      "title": "Future Climate Changes",
-      "description": "How can we better understand and project future climate changes?",
+      "title": "Cambios climáticos futuros",
+      "description": "¿Cómo podríamos comprender mejor y proyectar los futuros cambios climáticos?",
       "path": "SampleDocs/Science/E_Sciences/EPA_Future_of_Climate_Change/EPA_Future_of_Climate_Change.codap",
       "visible": true,
       "tag": [
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "title": "Hurricanes 2005-2015",
-      "description": "Explore NOAA data of hurricanes from 2005-2015.",
+      "title": "Huracanes 2005-2015",
+      "description": "Explorar los datos del NOAA sobre huracanes entre 2005-2015.",
       "path": "SampleDocs/Science/E_Sciences/Hurricanes/Hurricanes.codap",
       "visible": true,
       "tag": [
@@ -127,8 +127,8 @@
       ]
     },
     {
-      "title": "California Earthquakes",
-      "description": "This dataset explores 491 earthquakes that took place in California in 2012.",
+      "title": "Terremotos de California",
+      "description": "Este conjunto de datos explora 491 terremotos que tuvieron lugar en California en 2012.",
       "path": "SampleDocs/Science/E_Sciences/CA_earthquakes/CA_earthquakes.codap",
       "visible": true,
       "tag": [
@@ -143,8 +143,8 @@
       ]
     },
     {
-      "title": "Fast Plants",
-      "description": "An example document for CODAP beginners. Make graphs and use selection to look for patterns in fast plant growth.",
+      "title": "Plantas rápidas",
+      "description": "Un documento de ejemplo para principiantes de CODAP. Realizar gráficos y utilizar la selección para buscar patrones en el crecimiento de plantas rápidas.",
       "path": "SampleDocs/Science/Biology/fast_plants/fast_plants.codap",
       "visible": true,
       "tag": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "title": "Domestic Cats",
+      "title": "Gatos domésticos",
       "description": "This data set explores 24 domestic house cats. This is the same data set from the TinkerPlots example data set.",
       "path": "SampleDocs/Science/Biology/24cats/24cats.codap",
       "visible": true,
