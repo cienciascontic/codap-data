@@ -161,7 +161,7 @@ $(document).ready(function () {
             listing_image = $('<div class = "listing-image"><object data ='+image_path+' type="image/png"><img src = '+alt_img_path+'>'),
             listing_image_link=$('<a class = "listing-image-link" target = "_blank" href='+url+query_param+path+'> '+title),
             listing_desc = $('<span>').addClass('listing-desc').text(description).append('</a>'),
-            linkLink = $('<a class = "listing-link" href=' + path + '> Bajar archivo </a>'),
+            linkLink = $('<a class = "listing-link" href=' + path + '> Embeddable Link </a>'),
             launchLink.appendTo(listing);
         listing_image.appendTo(listing_image_link);
         listing_desc.appendTo(listing_image);
